@@ -56,3 +56,13 @@ Observo els canvis:
 
 >     mount /dev/vg1/lv1 /mnt/original
 >     ls /mnt/original
+```
+![](https://www.youtube.com/watch?v=WPO3KiJtG1A&ab_channel=theurbanpenguin)
+```
+```
+```
+> The secret to creativity is knowing how to hide your sources. 
+> -- <cite>[Albert Einstein][1]</cite>
+
+[1]: http://www.quotedb.com/quotes/2112
+```
