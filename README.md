@@ -1,5 +1,5 @@
 ## LVM. CREACIÓ I MERGE D'UN SNAPSHOT
-![Procés de creació  i merge d'un snapshot LVM2]!(image.png?raw=true "LVM2 Snapshot")
+![Procés de creació  i merge d'un snapshot LVM2](image.png?raw=true "LVM2 Snapshot")
 
  1. Declarar sdb com a PV
  >     pvcreate /dev/sdb
